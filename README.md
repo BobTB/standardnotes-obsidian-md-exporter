@@ -2,6 +2,10 @@
 
 A Python script to convert Standard Notes JSON export to individual Markdown files compatible with Obsidian https://obsidian.md/ while maintaining tags and file timestamps. 
 
+## Compatibility with Other Markdown Editors
+
+While this tool is designed with Obsidian users in mind, the generated Markdown files are compatible with any Markdown editor. This means you can easily import and use your Standard Notes content in other Markdown-based applications as well.
+
 ## Features
 
 - Converts Standard Notes JSON export to individual Markdown files
